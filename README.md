@@ -1,2 +1,2 @@
 # Bootstrap-website
-Develop a webpage using Bootstarp 5
+Develop a demo website using Bootstarp 5
